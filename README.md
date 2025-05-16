@@ -85,6 +85,6 @@ tensorboard --logdir=runs
 ```
 
 Open your browser and visit:  
-👉 http://localhost:6006
+http://localhost:6006
 
 ---
